@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LocationUpdateApp</string>
+    <string name="buttonText">Set Position</string>
+    <string name="welcomeMessage">Welcome to the Location Update App</string>
+    <string name="nearPreviousPositionMessage">You are close to your previous position</string>
+    <string name="movementMessagePart1">You have moved </string>
+    <string name="movementMessagePart2"> metres from your previous position</string>
+    <string name="positionResetMessage">Your initial position has now been set to your current position</string>
 </resources>
